@@ -1,3 +1,6 @@
+/*This program computes recursively the 
+total  numbers of  vocal characters. */
+
 #include <iostream>
 #include <cstring>
 using namespace std;
