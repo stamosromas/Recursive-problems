@@ -1,6 +1,7 @@
 /*This program computes the  total  paths 
 that exist if you begin from  a point and 
 only accepted movements are left and down.
+*/
 
 #include <iostream>
 using namespace std;
